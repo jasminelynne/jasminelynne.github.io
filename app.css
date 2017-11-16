@@ -1,0 +1,121 @@
+body{
+    background-color: rgb(213, 220, 229);
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+}
+h2{
+    font-family: 'Abril Fatface', sans-serif;
+    text-align: center;
+}
+ul{
+    padding: 10px;
+    background: grey;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    font-size: 20px;
+}
+header{
+    text-align: center;
+    background: url(http://www.27stars.co.uk/assets/video/stars.jpg);
+	background-size: cover;
+    padding: 20px 0px 0px 0px;
+    color: white;
+}
+h1{
+    font-size: 5em;
+    font-family: 'Lobster Two', sans-serif;
+}
+article {
+    padding: 20px;
+    margin: 0 auto;
+}
+#header-pic{
+    margin: 40px 0px 40px 0px;
+    width: 300px;
+ 
+}
+a{
+    color: white;
+}
+#skills{
+    text-align: center;
+    border: 10px double white;
+    border-radius: 20%;
+}
+#mother-daughter{
+    margin: 40px 0px 0px 0px;
+    border: 10px double white;
+    border-radius: 50%;
+}
+#hobbies{
+    margin: 40px 0px 0px 0px;
+    border: 10px double white;
+    border-radius: 20%;
+}
+#interests{
+    margin: 40px 0px 0px 0px;
+    border-radius: 10%;
+    border: 10px double white;
+
+}
+#goals{
+    margin: 40px 0px 0px 0px;
+    border-radius: 10%;
+    border: 10px double white;
+}
+#career{
+    margin: 40px 0px 0px 0px;
+    border-radius: 10%;
+    border: 10px double white;
+}
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 24px;
+    border: 1px solid #a12727;
+    border-radius: 50px;
+    background: #c3f4f4;
+    background: -webkit-gradient(linear, left top, left bottom, from(#c3f4f4), to(#c9c9c9));
+    background: -moz-linear-gradient(top, #c3f4f4, #c9c9c9);
+    background: linear-gradient(to bottom, #c3f4f4, #c9c9c9);
+    text-shadow: #591717 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    background: #eaffff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#eaffff), to(#f1f1f1));
+    background: -moz-linear-gradient(top, #eaffff, #f1f1f1);
+    background: linear-gradient(to bottom, #eaffff, #f1f1f1);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #759292;
+    background: -webkit-gradient(linear, left top, left bottom, from(#759292), to(#c9c9c9));
+    background: -moz-linear-gradient(top, #759292, #c9c9c9);
+    background: linear-gradient(to bottom, #759292, #c9c9c9);
+}
+.button:before{
+    content:  "\0000a0";
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
+    margin: 0 4px -6px -4px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABnElEQVRIia3Vv2sWQRDG8U8uEkJ4kSCSIqgkIYVFMBaSQqxEUgVLwRA0pQg2Kf3VBRERC1EJIiIKFiGVqFiIhCAvEfIfBAvtRRAsJIjF3quy7+a9u9UvHOwOc8/Mze7M9ctnGFPl+ttuTn0ZwgWuYhpbGC9tl/A9Q6+Li7ge2U7hwf8Qh00MJexr2Bsbi4wALelSbOMRbuNAhu5v3vlzuH9TlM8kXmIsN8Ac1it8DmMlR3wIrzFb4VfgTVPxPVjFmRq++8pEalPgoXBFY1o4HiWygnOdTR1u4DPuR/YBPMcovuAjjuEVntXUtoS7uq90gSe4XK6nhIYb7SU2ghOYKPeLeJoQh5u4U5Vdp0QFlnEEbRwUmuUHzuJn9N5Smen5qgAdLuBWlOmkcIAx83iBwbrihO7smiMJZoUmSwXuybrqGzUjlG9/U3HCbZip8FnD6RxxwmBq46Tw+QMJnwmh9tkcwj28F7o2RftfAnQYxtuEfRAbTcVSDfQVn7AQ+V0Thl0jdvvpt/BYyHobR/EBV7DTNEgvxoTRMZIr8AuiJDqlqfRRvgAAAABJRU5ErkJggg==") no-repeat left center transparent;
+    background-size: 100% 100%;
+}
