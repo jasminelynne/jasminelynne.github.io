@@ -50,7 +50,8 @@ a{
     border-radius: 20%;
 }
 #mom{
-border: 10px white double;
+    border: 10px double white;
+    border-radius: 20%;
     margin: 40px 0px 0px 0px;
 }
 #hobbies{
