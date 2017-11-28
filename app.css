@@ -16,7 +16,7 @@ ul{
     padding: 10px;
     background: grey;
 }
-#link {
+.link {
     display: inline;
     padding: 0px 10px 0px 10px;
     font-size: 20px;
@@ -39,7 +39,6 @@ article {
 .header-pic{
     margin: 40px 0px 40px 0px;
     width: 75px;
- 
 }
 a{
     color: white;
