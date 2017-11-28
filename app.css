@@ -12,7 +12,7 @@ h2{
     font-family: 'Abril Fatface', sans-serif;
     text-align: center;
 }
-ul{
+#header{
     padding: 10px;
     background: grey;
 }
