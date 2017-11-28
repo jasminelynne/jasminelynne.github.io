@@ -12,11 +12,11 @@ h2{
     font-family: 'Abril Fatface', sans-serif;
     text-align: center;
 }
-#link{
+ul{
     padding: 10px;
     background: grey;
 }
-li {
+#link {
     display: inline;
     padding: 0px 10px 0px 10px;
     font-size: 20px;
