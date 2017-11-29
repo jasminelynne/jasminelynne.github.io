@@ -57,13 +57,13 @@ a{
     border-radius: 20%;
 }
 #mom{
-    border: 10px double white;
+    border: 10px double grey;
     border-radius: 20%;
     margin: 40px 0px 0px 0px;
 }
 #hobbies{
     margin: 40px 0px 0px 0px;
-    border: 10px double white;
+    border: 10px double grey;
     border-radius: 20%;
 }
 #interests{
@@ -75,7 +75,7 @@ a{
 #goals{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 10px double grey;
 }
 #career{
     margin: 40px 0px 0px 0px;
@@ -85,12 +85,12 @@ a{
 #college{
     margin: 40px 0px 0px 60px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 10px double grey;
 }
 #newsletter{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 10px double grey;
 }
 #photoshop{
     margin: 40px 0px 0px 0px;
@@ -100,7 +100,7 @@ a{
 #code{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 10px double grey;
 }
 #highschool{
     margin: 40px 0px 0px 0px;
@@ -116,7 +116,7 @@ a{
 #marriage{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 10px double grey;
 }
 #sale{
     margin: 40px 0px 0px 0px;
