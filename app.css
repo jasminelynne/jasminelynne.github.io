@@ -122,6 +122,9 @@ a{
     border-radius: 10%;
     border: 10px double white;
 }
+.div{
+text-align: center;
+}
 .button {
     display: inline-block;
     text-align: center;
