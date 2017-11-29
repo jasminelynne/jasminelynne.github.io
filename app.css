@@ -33,10 +33,10 @@ h1{
     font-family: 'Lobster Two', sans-serif;
 }
 article {
-    padding: 20px;
-    margin: 0 auto;
-    text: center;
-}
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+}	
 .header-pic{
     margin: 40px 0px 40px 0px;
     width: 75px;
