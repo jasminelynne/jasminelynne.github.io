@@ -13,7 +13,7 @@ h2{
     text-align: center;
 }
 h3{
-font-family: 'Spectral SC', serif;
+   font-family: 'Spectral SC', serif;
    text-align: center;
 }
 ul{
@@ -21,11 +21,11 @@ ul{
 }
 .link {
     display: inline;
-    padding: 0px 10px 0px 10px;
     font-size: 20px;
     color: white;
     padding: 10px;
     background: grey;
+    padding: 0px 10px 0px 10px;
 }
 header{
     text-align: center;
