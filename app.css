@@ -13,9 +13,8 @@ h2{
     text-align: center;
 }
 ul{
-      padding: 0px;
-      background: rgba(0,0,0,0.5);
-      margin: 0;  
+      padding: 80px;
+
 }
 .link {
     display: inline;
