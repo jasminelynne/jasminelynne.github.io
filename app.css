@@ -14,10 +14,10 @@ h2{
 }
 h3{
 font-family: 'Spectral SC', serif;
+   text-align: center;
 }
 ul{
       padding: 0px;
-
 }
 .link {
     display: inline;
