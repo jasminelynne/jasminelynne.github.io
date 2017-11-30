@@ -56,71 +56,71 @@ a{
     border-radius: 20%;
 }
 #mom{
-    border: 10px double grey;
+    border: 20px solid grey;
     border-radius: 20%;
     margin: 40px 0px 0px 0px;
 }
 #hobbies{
     margin: 40px 0px 0px 0px;
-    border: 10px double grey;
+    border: 20px solid grey;
     border-radius: 20%;
 }
 #interests{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 20px solid white;
 
 }
 #goals{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double grey;
+    border: 20px solid grey;
 }
 #career{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 20px solid white;
 }
 #college{
     margin: 40px 0px 0px 60px;
     border-radius: 10%;
-    border: 10px double grey;
+    border: 20px solid grey;
 }
 #newsletter{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double grey;
+    border: 20px solid grey;
 }
 #photoshop{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 20px solid white;
 }
 #code{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double grey;
+    border: 20px solid grey;
 }
 #highschool{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 20px solid white;
 
 }
 #malala{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 20px solid white;
 }
 #marriage{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double grey;
+    border: 20px solid grey;
 }
 #sale{
     margin: 40px 0px 0px 0px;
     border-radius: 10%;
-    border: 10px double white;
+    border: 20px solid white;
 }
 div{
 text-align: center;
